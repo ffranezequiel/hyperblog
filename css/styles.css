@@ -30,6 +30,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+#river{
+    width: 100%;
+}
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
